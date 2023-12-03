@@ -1,2 +1,0 @@
-encoded-training.1600000.processed.noemoticon filter=lfs diff=lfs merge=lfs -text
-encoded-training.1600000.processed.noemoticon.csv filter=lfs diff=lfs merge=lfs -text
